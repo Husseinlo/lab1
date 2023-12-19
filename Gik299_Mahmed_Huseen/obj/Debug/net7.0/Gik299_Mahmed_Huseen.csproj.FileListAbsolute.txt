@@ -1,0 +1,15 @@
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/bin/Debug/net7.0/Gik299_Mahmed_Huseen
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/bin/Debug/net7.0/Gik299_Mahmed_Huseen.deps.json
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/bin/Debug/net7.0/Gik299_Mahmed_Huseen.runtimeconfig.json
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/bin/Debug/net7.0/Gik299_Mahmed_Huseen.dll
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/bin/Debug/net7.0/Gik299_Mahmed_Huseen.pdb
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.csproj.AssemblyReference.cache
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.AssemblyInfoInputs.cache
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.AssemblyInfo.cs
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.csproj.CoreCompileInputs.cache
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.dll
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/refint/Gik299_Mahmed_Huseen.dll
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.pdb
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/Gik299_Mahmed_Huseen.genruntimeconfig.cache
+/Users/husseinmohamed/RiderProjects/Gik299_Mahmed_Huseen/Gik299_Mahmed_Huseen/obj/Debug/net7.0/ref/Gik299_Mahmed_Huseen.dll
